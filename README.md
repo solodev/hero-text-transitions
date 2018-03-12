@@ -1,6 +1,11 @@
 # hero-text-transitions
 
-  		  
+Hero sliders are some of the most interesting visual elements in website design. They give brands the ability to showcase unique visual elements. While a picture might be worth a thousand words, far fewer words are still needed on copy to bring those visual elements to life in the context of an organization's website. 
+
+Text on hero images are like butter on bread -- or the other way around depending on which one takes priority for your marketing strategy. And while the images often take center stage for hero banners, text and text effects can add a bit more to a seemingly static hero image (or sets of images). 
+
+Here's how to add fun, distinctive text transitions to your hero sliders: 		
+
 ## Tutorial		  
 For detailed instruction's, view Solodev's [HTT_POST_TITLE](HTT_POST_LINK) article.
  
