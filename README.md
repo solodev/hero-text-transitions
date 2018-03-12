@@ -15,54 +15,49 @@ The tutorial contains the following basic HTML markup.
 ```
 
 
-<div class="breadcrumbs">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6 col-md-6 col-lg-8">
-                <a class="fileTrail" href="/">Home</a>
-                <span class="fileTrailDividers">|</span>
-                <a class="fileTrail" href="/dairy-foods/">Dairy Foods</a>
-                <span class="fileTrailDividers">|</span>
-                <span class="fileTrailCurrent">All Recipes</span>
-            </div>
-            <div class="col-sm-6 col-md-6 col-lg-4">
-                <ul class="breadcrumbs-socials list-inline list-unstyled mt-3 mt-md-0">
-                    <li class="social-share text-uppercase">Share</li>
-                    <li>
-                        <a href="" target="_blank">
-                            <i class="fa fa-facebook">&nbsp;</i>
-                        </a>
-                    </li>
-                    <li>
-                        <a aria-label="Share on Instagram">
-                            <i class="fa fa-instagram">&nbsp;</i>
-                        </a>
-                    </li>
-                    <li>
-                        <a aria-label="Share on Twitter">
-                            <i class="fa fa-twitter">&nbsp;</i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="" aria-label="Share on Pinterest">
-                            <i class="fa fa-pinterest-p">&nbsp;</i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="" aria-label="Share on LinkedIn">
-                            <i class="fa fa-linkedin">&nbsp;</i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="" aria-label="Email" class="emailIcon">
-                            <i class="fa fa-envelope-o">&nbsp;</i>
-                        </a>
-                    </li>
-                </ul>
-            </div>
+<section class="hero-slider">
+    <div class="hero-slide slider_1">
+      <div class="slider-overlay slider-1-overlay"></div>
+      <div class="container">
+      <div class="slide-content text-white text-white">
+            <h2 class="h1 text-white">Create websites beyond your imagination</h2>
+            <p class="hidden-xs">Evolve your web experiences and create stunning, feature-rich websites.</p>
+            <a class=" text-white btn slide-btn" href="https://www.solodev.com/product/create.stml">Read the Story</a>
         </div>
+      </div>
     </div>
-</div>
+    <div class="hero-slide slider_2">
+      <div class="slider-overlay slider-2-overlay"></div>
+      <div class="container">
+      <div class="slide-content text-white">
+            <h2 class="h1 text-white">Enterprise Hosting that's out of this world</h2>
+            <p class="hidden-xs">Pilot your website on the only platform built for the AWS Cloud</p>
+            <a class="btn slide-btn text-white" href="https://www.solodev.com/product/host.stml">Start for Free</a>
+        </div>
+      </div>
+    </div>
+    <div class="hero-slide slider_3">
+      <div class="slider-overlay slider-3-overlay"></div>
+      <div class="container">
+      <div class="slide-content text-white">
+            <h2 class="h1 text-white">Target and engage a universe of customers</h2>
+            <p class="hidden-xs">Boldy go where no marketer has gone before with a powerful platform that integrates everything</p>
+            <a class="btn slide-btn text-white" href="https://www.solodev.com/product/engage.stml">Start for Free</a>
+        </div>
+      </div>
+    </div>
+    <div class="hero-slide slider_4">
+      <div class="slider-overlay slider-4-overlay"></div>
+      <div class="container">
+      <div class="slide-content text-white">
+            <h2 class="h1 text-white">Web Support from launch to orbit</h2>
+            <p class="hidden-xs">Solodev mission control is standing by at every stage with 24/7 U.S. based support.</p>
+            <a class="btn slide-btn text-white" href="https://www.solodev.com/product/support.stml">Start for Free</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
 ```
 
