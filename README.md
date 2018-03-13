@@ -7,7 +7,7 @@ Text on hero images are like butter on bread -- or the other way around dependin
 Here's how to add fun, distinctive text transitions to your hero sliders: 		
 
 ## Tutorial		  
-For detailed instruction's, view Solodev's [HTT_POST_TITLE](HTT_POST_LINK) article.
+For detailed instruction's, view Solodev's [Add Text Transitions to Your Hero Sliders](https://www.solodev.com/blog/add-text-transitions-to-your-hero-sliders.stml) article.
  
 ## Demo
   		  
